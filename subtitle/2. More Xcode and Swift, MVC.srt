@@ -596,7 +596,7 @@ This is just an optional, but
 121
 00:04:58,523 --> 00:05:03,625
 always automatically unwrap it so that you don't have to
-但它会自动对变量解包，从而你就可以不用
+但它会自动对变量解包，从而就可以不用
 
 122
 00:05:03,627 --> 00:05:06,261
